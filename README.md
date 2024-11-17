@@ -255,7 +255,7 @@ Tag the repo "sudo docker tag dockerfile richardolat/my-docker-image:latest"
 
 ![Screenshot 2024-11-16 145716](https://github.com/user-attachments/assets/654703c1-1c06-47f0-bddf-5b00952d60d9)
 
-The docker image is pused to the repo.
+The docker image is pushed to docker hub repo.
 
 
 
